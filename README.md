@@ -6,3 +6,4 @@ Personal email: dominic.luis.perez@gmail.com
 School email: dominic_perez@redlands.edu
 
 Josh Davydov
+Joshua_davydov@redlands.edu
